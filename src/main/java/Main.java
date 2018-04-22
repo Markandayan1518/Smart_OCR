@@ -10,9 +10,9 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
-public class ChromeExample {
+public class Main {
 
-  public static final String CLOUD_GOOGLE_COM_VISION = "https://cloud.google.com/vision/";
+  private static final String CLOUD_GOOGLE_COM_VISION = "https://cloud.google.com/vision/";
 
   public static void main(String[] args) throws IOException {
 
